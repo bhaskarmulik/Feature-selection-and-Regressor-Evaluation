@@ -1,4 +1,4 @@
-# Using various methods to determine scores for different regressors
+# Evaluating Different Regressors
 * Find and deal with missing values
 * Deal with categorical data if available
 * Establish pipelines and transformers
